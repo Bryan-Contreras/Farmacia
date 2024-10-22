@@ -1,4 +1,4 @@
-# Sistema de Gestión de Farmacia en PHP MySQL con Código Fuente
+# Sistema de Gestión de Farmacia en PHP MySQL
 
 
 
